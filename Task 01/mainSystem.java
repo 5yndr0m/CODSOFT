@@ -27,6 +27,8 @@ public class mainSystem {
                 isCorrect = false;
             }
         }
+
+        scan.close();
     }
     
 }

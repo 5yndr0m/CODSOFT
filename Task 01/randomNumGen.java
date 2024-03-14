@@ -1,5 +1,3 @@
-import java.util.*;
-
 class randomNumGen{
 
     public static int numberGen(int upperBound, int lowerBound){
